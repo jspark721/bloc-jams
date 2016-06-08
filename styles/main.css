@@ -72,6 +72,10 @@ body.landing{
     max-width: 64rem;
 }
 
+.container.narrow {
+    max-width: 56rem;
+}
+
 .hero-content {
     position: relative;
     min-height: 600px;
