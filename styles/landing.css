@@ -48,9 +48,6 @@ body.landing {
     -moz-transition-delay: 0.2s;
     transition-delay: 0.2s;
 }
-.point:hover {
-    opacity: 0.3;
-}
 
 .point .point-title {
     font-size: 1.25rem;
